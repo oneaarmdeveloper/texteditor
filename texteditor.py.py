@@ -1,5 +1,6 @@
 # my_text_editor.py
 #  testing before implementation
+# 
 import tkinter as tk
 from tkinter import scrolledtext, Menu, filedialog, messagebox
 #         defaultextension=".txt",
